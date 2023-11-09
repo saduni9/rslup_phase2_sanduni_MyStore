@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\RUSUL\2ND PHASE\9WEEK\AGMS\AGMS\agms\obj\Debug\net6.0\Agms.RazorAssemblyInfo.cs
