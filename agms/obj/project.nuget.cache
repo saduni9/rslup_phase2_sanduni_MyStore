@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IWP7KvcacH21vmw05swFpwMflHZzvT2PB+JRc80boy+OOIyqDSdK36lfcH+1fH6dJsIGUQaWTgsIdfaaohVzRw==",
+  "dgSpecHash": "Mn6G4JWqfn6EPF8zEBRPY4MbYDSYml7Xh3WEyWmt4y8eF7Wuqg+NVfrOCj74BUFh5rxUDDZ/jkiLlaNKh4ANtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\my store\\MyStore\\MyStore\\MyStore.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\AGMS\\AGMS\\agms\\Agms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

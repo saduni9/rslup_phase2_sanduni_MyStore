@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\my store\\MyStore\\MyStore\\MyStore.csproj",
-      "projectName": "MyStore",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\my store\\MyStore\\MyStore\\MyStore.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\AGMS\\AGMS\\agms\\Agms.csproj",
+      "projectName": "Agms",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\AGMS\\AGMS\\agms\\Agms.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\my store\\MyStore\\MyStore\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\RUSUL\\2ND PHASE\\9WEEK\\AGMS\\AGMS\\agms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
