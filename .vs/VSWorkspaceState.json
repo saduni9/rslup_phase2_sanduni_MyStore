@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
     "\\agms",
-    "\\agms\\data",
-    "\\agms\\Pages"
+    "\\agms\\agms.tests",
+    "\\agms\\agms.tests\\bin",
+    "\\agms\\agms.tests\\bin\\Debug",
+    "\\agms\\agms.tests\\bin\\Release"
   ],
-  "SelectedNode": "\\agms\\data\\user.cs",
+  "SelectedNode": "\\agms\\agms.tests\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
